@@ -1,2 +1,1 @@
-# DanielCcardozo
-repositorio local
+este repositorio es para clonar
